@@ -15,4 +15,4 @@ Informatics Engineering Student, Cyber Security & Capture The Flag (CTF) Enthusi
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/naufal-ridho-permana-26b4a7315/
 
-  *Exploring security is a journey — break, learn, secure, repeat.*
+  *Exploring security is a journey, break, learn, secure, repeat.*
